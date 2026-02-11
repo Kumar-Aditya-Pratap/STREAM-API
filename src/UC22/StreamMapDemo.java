@@ -1,6 +1,6 @@
 
 
-package uc22;
+package UC22;
 
 import java.util.Arrays;
 import java.util.List;
